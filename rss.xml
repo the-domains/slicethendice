@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[slicethendice]]></title>
         <description><![CDATA[slicethendice]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/slicethendice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 02:41:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 May 2016 02:43:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/slicethendice/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="@AesopRockWins is on the #WestCoast THIS WEEK! See dates: http://ow.ly/4nlpGd @rhymesayers #tourspic.twitter.com/kHzzNV5GpP" src="https://pbs.twimg.com/media/Ch-RBiSUUAANgue.jpg:large">]]></description>
+            <link>https://twitter.com/co_sign/status/729461120981995521</link>
+            <guid isPermaLink="false">6bc86f80-6415-4629-a320-73a2d054baa7</guid>
+            <pubDate>Mon, 09 May 2016 02:43:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is a test post</p>]]></description>
-            <link>undefinedthis-is-a-test-post/index.html</link>
+            <link>https://thegrid.ai/slicethendice/this-is-a-test-post/index.html</link>
             <guid isPermaLink="false">86ddc864-6411-468d-83fe-a04691bd244a</guid>
             <pubDate>Mon, 09 May 2016 02:41:07 GMT</pubDate>
         </item>
